@@ -3,7 +3,7 @@
 """
 Created on Thu Mar  7 19:04:40 2019
 
-@author: juangabriel
+@author: juangabriel.
 """
 
 # Regresión con Árboles de Decisión
